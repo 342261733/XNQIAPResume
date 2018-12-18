@@ -13,6 +13,7 @@
 		5417ACA221C8F50F001C48B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5417ACA121C8F50F001C48B5 /* Assets.xcassets */; };
 		5417ACA521C8F50F001C48B5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5417ACA321C8F50F001C48B5 /* LaunchScreen.storyboard */; };
 		5417ACA821C8F50F001C48B5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5417ACA721C8F50F001C48B5 /* main.m */; };
+		5417ACB021C8F526001C48B5 /* XNQIAPResume.m in Sources */ = {isa = PBXBuildFile; fileRef = 5417ACAF21C8F526001C48B5 /* XNQIAPResume.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		5417ACA421C8F50F001C48B5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5417ACA621C8F50F001C48B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5417ACA721C8F50F001C48B5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		5417ACAE21C8F526001C48B5 /* XNQIAPResume.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XNQIAPResume.h; sourceTree = "<group>"; };
+		5417ACAF21C8F526001C48B5 /* XNQIAPResume.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XNQIAPResume.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				5417AC9921C8F50B001C48B5 /* AppDelegate.m */,
 				5417AC9B21C8F50B001C48B5 /* ViewController.h */,
 				5417AC9C21C8F50B001C48B5 /* ViewController.m */,
+				5417ACAE21C8F526001C48B5 /* XNQIAPResume.h */,
+				5417ACAF21C8F526001C48B5 /* XNQIAPResume.m */,
 				5417AC9E21C8F50B001C48B5 /* Main.storyboard */,
 				5417ACA121C8F50F001C48B5 /* Assets.xcassets */,
 				5417ACA321C8F50F001C48B5 /* LaunchScreen.storyboard */,
@@ -144,6 +149,7 @@
 				5417AC9D21C8F50B001C48B5 /* ViewController.m in Sources */,
 				5417ACA821C8F50F001C48B5 /* main.m in Sources */,
 				5417AC9A21C8F50B001C48B5 /* AppDelegate.m in Sources */,
+				5417ACB021C8F526001C48B5 /* XNQIAPResume.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
