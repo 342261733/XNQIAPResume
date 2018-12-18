@@ -35,7 +35,7 @@ NSString *sandbox = @"https://sandbox.itunes.apple.com/verifyReceipt"; // 沙盒
 需要将Receipt，base64编码成string，请求参数json如下：
 
 |key|value|
-|----|----|----|
+|----|----|
 |receipt-data|base64 编码的收据数据。|
 | password | 仅用于包含自动续期订阅的收据。您App的共享密钥（十六进制字符串）。|
 |exclude-old-transactions|仅用于包含自动续期订阅或非续期订阅的iOS7样式App收据。如果值为 true，仅响应包括所有订阅的最新续期交易。|
